@@ -1,0 +1,22 @@
+/*~~~~~~~~~~~~~~~~Main css~~~~~~~~~~~~~~~~~~*/
+
+body {
+
+    background: url(../assets/OIP.jpg) no-repeat fixed;
+    background-size: cover;
+}
+
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+
+#soon{
+
+    font-size:100px;
+    display: inline;
+    background-color: black;
+    position:absolute;
+    top: 40%;
+    left: 40%;
+
+}
+
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
